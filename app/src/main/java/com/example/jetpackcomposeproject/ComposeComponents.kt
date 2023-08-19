@@ -40,7 +40,7 @@ fun TextModelCompose(
         fontSize = size,
         modifier = modifier
             .wrapContentSize()
-            .padding( padding),
+            .padding(padding),
         color = Color.Black
     )
 }
